@@ -1,4 +1,9 @@
 # ReactNative-Get-Nearest-Charging-Locations-Mobile
+
+<p align="center">
+  <img height=560 width=280 src="ReactNativeMeteorVideo.gif">
+</p>
+
 The app is made up of two pieces. A Meteor app that is handling the web browser, the server, and the database connection; and a React Native app that is handling the iOS and Android mobile app.
 
 **Find Nearby Charging Stations:**
@@ -13,8 +18,3 @@ Check-in to station with real-time data, allowing you to know where there are un
 
 Only those with a user account can claim charging spots. I'll use the Meteor's robust accounts system for that.
 
-
-
-<p align="center">
-  <img height=560 width=280 src="ReactNativeMeteorVideo.gif">
-</p>
